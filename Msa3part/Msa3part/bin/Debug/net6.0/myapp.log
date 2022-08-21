@@ -1,0 +1,4 @@
+2022-08-14 05:34:45,493 [NonParallelWorker] INFO Msa3part.Utility.log4nets - Generate extent report
+2022-08-14 05:34:47,320 [NonParallelWorker] INFO Msa3part.Utility.log4nets - Driver Intialize
+2022-08-14 05:35:05,168 [NonParallelWorker] INFO Msa3part.Utility.log4nets - Navigate to url
+2022-08-14 05:35:09,329 [NonParallelWorker] INFO Msa3part.Utility.log4nets - Close the driver

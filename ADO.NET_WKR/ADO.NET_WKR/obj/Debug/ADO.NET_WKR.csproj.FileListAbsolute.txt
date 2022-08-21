@@ -1,0 +1,9 @@
+C:\Users\mindc1may266\source\repos\ADO.NET_WKR\ADO.NET_WKR\bin\Debug\Worker.mdf
+C:\Users\mindc1may266\source\repos\ADO.NET_WKR\ADO.NET_WKR\bin\Debug\Worker_log.ldf
+C:\Users\mindc1may266\source\repos\ADO.NET_WKR\ADO.NET_WKR\bin\Debug\ADO.NET_WKR.exe.config
+C:\Users\mindc1may266\source\repos\ADO.NET_WKR\ADO.NET_WKR\bin\Debug\ADO.NET_WKR.exe
+C:\Users\mindc1may266\source\repos\ADO.NET_WKR\ADO.NET_WKR\bin\Debug\ADO.NET_WKR.pdb
+C:\Users\mindc1may266\source\repos\ADO.NET_WKR\ADO.NET_WKR\obj\Debug\ADO.NET_WKR.csproj.AssemblyReference.cache
+C:\Users\mindc1may266\source\repos\ADO.NET_WKR\ADO.NET_WKR\obj\Debug\ADO.NET_WKR.csproj.CoreCompileInputs.cache
+C:\Users\mindc1may266\source\repos\ADO.NET_WKR\ADO.NET_WKR\obj\Debug\ADO.NET_WKR.exe
+C:\Users\mindc1may266\source\repos\ADO.NET_WKR\ADO.NET_WKR\obj\Debug\ADO.NET_WKR.pdb

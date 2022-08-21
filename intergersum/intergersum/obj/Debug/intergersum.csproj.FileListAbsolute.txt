@@ -1,0 +1,7 @@
+C:\Users\mindc1may266\source\repos\intergersum\intergersum\bin\Debug\intergersum.exe.config
+C:\Users\mindc1may266\source\repos\intergersum\intergersum\bin\Debug\intergersum.exe
+C:\Users\mindc1may266\source\repos\intergersum\intergersum\bin\Debug\intergersum.pdb
+C:\Users\mindc1may266\source\repos\intergersum\intergersum\obj\Debug\intergersum.csproj.AssemblyReference.cache
+C:\Users\mindc1may266\source\repos\intergersum\intergersum\obj\Debug\intergersum.csproj.CoreCompileInputs.cache
+C:\Users\mindc1may266\source\repos\intergersum\intergersum\obj\Debug\intergersum.exe
+C:\Users\mindc1may266\source\repos\intergersum\intergersum\obj\Debug\intergersum.pdb

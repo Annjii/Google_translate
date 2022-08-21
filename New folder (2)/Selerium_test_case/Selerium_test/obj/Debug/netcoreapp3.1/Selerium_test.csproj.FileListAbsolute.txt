@@ -1,0 +1,5 @@
+C:\Users\mindc1may266\source\repos\Selerium_test_case\Selerium_test\obj\Debug\netcoreapp3.1\Selerium_test.csproj.AssemblyReference.cache
+C:\Users\mindc1may266\source\repos\Selerium_test_case\Selerium_test\obj\Debug\netcoreapp3.1\Selerium_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1may266\source\repos\Selerium_test_case\Selerium_test\obj\Debug\netcoreapp3.1\Selerium_test.AssemblyInfoInputs.cache
+C:\Users\mindc1may266\source\repos\Selerium_test_case\Selerium_test\obj\Debug\netcoreapp3.1\Selerium_test.AssemblyInfo.cs
+C:\Users\mindc1may266\source\repos\Selerium_test_case\Selerium_test\obj\Debug\netcoreapp3.1\Selerium_test.csproj.CoreCompileInputs.cache

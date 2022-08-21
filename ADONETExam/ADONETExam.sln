@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONETExam", "ADONETExam\ADONETExam.csproj", "{7C7D65DB-63B9-4637-8DE4-6FCAEBC33EE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E5FCAEF-ADFC-45AB-8851-BAF0534204CB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7D65DB-63B9-4637-8DE4-6FCAEBC33EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7D65DB-63B9-4637-8DE4-6FCAEBC33EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7D65DB-63B9-4637-8DE4-6FCAEBC33EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7D65DB-63B9-4637-8DE4-6FCAEBC33EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A93B973A-A104-41EE-A556-39B5E546C5DE}
+	EndGlobalSection
+EndGlobal

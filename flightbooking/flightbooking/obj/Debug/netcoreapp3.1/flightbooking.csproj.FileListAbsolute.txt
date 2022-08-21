@@ -1,0 +1,5 @@
+C:\Users\mindc1may266\source\repos\flightbooking\flightbooking\obj\Debug\netcoreapp3.1\flightbooking.csproj.AssemblyReference.cache
+C:\Users\mindc1may266\source\repos\flightbooking\flightbooking\obj\Debug\netcoreapp3.1\flightbooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1may266\source\repos\flightbooking\flightbooking\obj\Debug\netcoreapp3.1\flightbooking.AssemblyInfoInputs.cache
+C:\Users\mindc1may266\source\repos\flightbooking\flightbooking\obj\Debug\netcoreapp3.1\flightbooking.AssemblyInfo.cs
+C:\Users\mindc1may266\source\repos\flightbooking\flightbooking\obj\Debug\netcoreapp3.1\flightbooking.csproj.CoreCompileInputs.cache

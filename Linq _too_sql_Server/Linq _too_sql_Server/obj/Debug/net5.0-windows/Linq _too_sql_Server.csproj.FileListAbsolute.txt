@@ -1,0 +1,7 @@
+C:\Users\mindc1may266\source\repos\Linq _too_sql_Server\Linq _too_sql_Server\obj\Debug\net5.0-windows\Linq _too_sql_Server.csproj.AssemblyReference.cache
+C:\Users\mindc1may266\source\repos\Linq _too_sql_Server\Linq _too_sql_Server\obj\Debug\net5.0-windows\Linq__too_sql_Server.Form1.resources
+C:\Users\mindc1may266\source\repos\Linq _too_sql_Server\Linq _too_sql_Server\obj\Debug\net5.0-windows\Linq _too_sql_Server.csproj.GenerateResource.cache
+C:\Users\mindc1may266\source\repos\Linq _too_sql_Server\Linq _too_sql_Server\obj\Debug\net5.0-windows\Linq _too_sql_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1may266\source\repos\Linq _too_sql_Server\Linq _too_sql_Server\obj\Debug\net5.0-windows\Linq _too_sql_Server.AssemblyInfoInputs.cache
+C:\Users\mindc1may266\source\repos\Linq _too_sql_Server\Linq _too_sql_Server\obj\Debug\net5.0-windows\Linq _too_sql_Server.AssemblyInfo.cs
+C:\Users\mindc1may266\source\repos\Linq _too_sql_Server\Linq _too_sql_Server\obj\Debug\net5.0-windows\Linq _too_sql_Server.csproj.CoreCompileInputs.cache

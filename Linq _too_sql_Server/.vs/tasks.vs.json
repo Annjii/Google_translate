@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ref",
+      "appliesTo": "Linq _too_sql_Server/bin/Debug/net5.0-windows/ref/",
+      "type": "launch"
+    }
+  ]
+}

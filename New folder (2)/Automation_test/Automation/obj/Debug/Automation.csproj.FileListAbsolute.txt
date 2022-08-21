@@ -1,0 +1,2 @@
+C:\Users\mindc1may266\source\repos\Automation_test\Automation\obj\Debug\Automation.csproj.AssemblyReference.cache
+C:\Users\mindc1may266\source\repos\Automation_test\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache

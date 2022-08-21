@@ -1,0 +1,7 @@
+C:\Users\mindc1may266\source\repos\ADONETExam\ADONETExam\obj\Debug\netcoreapp3.1\ADONETExam.csproj.AssemblyReference.cache
+C:\Users\mindc1may266\source\repos\ADONETExam\ADONETExam\obj\Debug\netcoreapp3.1\ADONETExam.Form1.resources
+C:\Users\mindc1may266\source\repos\ADONETExam\ADONETExam\obj\Debug\netcoreapp3.1\ADONETExam.csproj.GenerateResource.cache
+C:\Users\mindc1may266\source\repos\ADONETExam\ADONETExam\obj\Debug\netcoreapp3.1\ADONETExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1may266\source\repos\ADONETExam\ADONETExam\obj\Debug\netcoreapp3.1\ADONETExam.AssemblyInfoInputs.cache
+C:\Users\mindc1may266\source\repos\ADONETExam\ADONETExam\obj\Debug\netcoreapp3.1\ADONETExam.AssemblyInfo.cs
+C:\Users\mindc1may266\source\repos\ADONETExam\ADONETExam\obj\Debug\netcoreapp3.1\ADONETExam.csproj.CoreCompileInputs.cache

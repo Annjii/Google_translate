@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsCaq4U7Sjj6cavJxIvEqQIFd9HtptyGqTStb8HnpGbcAkBb78S5Y0My/pDOG0a0eIBCs6scJWaxDpUpZD5zHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mindc1may266\\source\\repos\\book_test_simpl\\book_test\\book_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mindc1may266\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mindc1may266\\.nuget\\packages\\selenium.support\\4.3.0\\selenium.support.4.3.0.nupkg.sha512",
+    "C:\\Users\\mindc1may266\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\mindc1may266\\.nuget\\packages\\selenium.webdriver.chromedriver\\104.0.5112.2000-beta\\selenium.webdriver.chromedriver.104.0.5112.2000-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\mindc1may266\source\repos\oppsconceps\oppsconceps\bin\Debug\oppsconceps.exe.config
+C:\Users\mindc1may266\source\repos\oppsconceps\oppsconceps\bin\Debug\oppsconceps.exe
+C:\Users\mindc1may266\source\repos\oppsconceps\oppsconceps\bin\Debug\oppsconceps.pdb
+C:\Users\mindc1may266\source\repos\oppsconceps\oppsconceps\obj\Debug\oppsconceps.csproj.AssemblyReference.cache
+C:\Users\mindc1may266\source\repos\oppsconceps\oppsconceps\obj\Debug\oppsconceps.csproj.CoreCompileInputs.cache
+C:\Users\mindc1may266\source\repos\oppsconceps\oppsconceps\obj\Debug\oppsconceps.exe
+C:\Users\mindc1may266\source\repos\oppsconceps\oppsconceps\obj\Debug\oppsconceps.pdb
+C:\Users\mindc1may266\source\repos\oppsconceps\oppsconceps\obj\Debug\oppsconceps.csproj.SuggestedBindingRedirects.cache
